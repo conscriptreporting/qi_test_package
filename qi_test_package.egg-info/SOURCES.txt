@@ -1,0 +1,7 @@
+setup.py
+qi_test_package/__init__.py
+qi_test_package/math_operations.py
+qi_test_package.egg-info/PKG-INFO
+qi_test_package.egg-info/SOURCES.txt
+qi_test_package.egg-info/dependency_links.txt
+qi_test_package.egg-info/top_level.txt

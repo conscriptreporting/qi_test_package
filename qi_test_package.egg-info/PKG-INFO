@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: qi_test_package
+Version: 0.1
+Summary: A trivial test package.
+Home-page: https://github.com/conscriptreporting/qi_test_package
+Author: Qi Gao
+Author-email: qgao1997@163.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
