@@ -27,8 +27,7 @@ A well-structured project typically looks like this:
 
 - `my_package/` (Main package directory)
   - `__init__.py` (Initializes the package)
-  - `module1.py` (Example module)
-  - `module2.py` (Example module)
+  - `module.py` (Example module)
 - `tests/` (Directory for test files)
   - `test_module1.py` (Example test file)
 - `setup.py` (Build configuration file)
