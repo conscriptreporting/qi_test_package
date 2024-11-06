@@ -1,11 +1,11 @@
 # Guide to Building and Installing Python Packages
 
-This guide provides a step-by-step approach to creating, building, and installing Python packages, as well as sharing them with others via PyPI.
+This guide provides a step-by-step approach to creating, building, and installing Python packages.
 
 ## Table of Contents
 1. [Introduction to Python Packages](#introduction-to-python-packages)
 2. [Setting Up Your Project Structure](#setting-up-your-project-structure)
-3. [Creating `setup.py` and Other Configuration Files](#creating-setup-py-and-other-configuration-files)
+3. [Creating `setup.py`](#creating-setup-py)
 4. [Building the Package](#building-the-package)
 5. [Installing the Package Locally](#installing-the-package-locally)
 
@@ -43,7 +43,7 @@ A well-structured project typically looks like this:
 - `tests/`: Directory containing test cases to validate your code.
 
 -----
-## 3. Creating `setup.py` and Other Configuration Files
+## 3. Creating `setup.py`
 
 The `setup.py` file is crucial for package building and installation. Here’s a basic `setup.py` template:
 
