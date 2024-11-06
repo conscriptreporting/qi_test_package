@@ -27,3 +27,6 @@ A Python package is typically a directory with:
 
 A well-structured project typically looks like this:
 
+```
+my_package/ ├── my_package/ # Main package directory │ ├── init.py # Initializes the package │ ├── module1.py # Example module │ └── module2.py # Example module ├── tests/ # Directory for test files │ └── test_module1.py # Example test file ├── setup.py # Build configuration file ├── README.md # Project description └── LICENSE # License information
+```
