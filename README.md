@@ -8,9 +8,6 @@ This guide provides a step-by-step approach to creating, building, and installin
 3. [Creating `setup.py` and Other Configuration Files](#creating-setup-py-and-other-configuration-files)
 4. [Building the Package](#building-the-package)
 5. [Installing the Package Locally](#installing-the-package-locally)
-6. [Publishing the Package on PyPI](#publishing-the-package-on-pypi)
-7. [Installing from PyPI](#installing-from-pypi)
-8. [Additional Tips and Best Practices](#additional-tips-and-best-practices)
 
 ---
 
